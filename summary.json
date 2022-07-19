@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "date": "14-4-2022",
+      "bought_AVAX": 0.01,
+      "bought_txn": 1,
+      "failed_txn": 0,
+      "sold_AVAX": 0.009940090071931747,
+      "sold_txn": 1,
+      "total_gas": 0.015828180184614016,
+      "total_profit": -0.01588809011268227
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "frontrun_bot",
+  "version": "1.0.0",
+  "description": "Frontrunning Bot",
+  "main": "frontrun.js",
+  "bin": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RED company",
+  "license": "ISC",
+  "dependencies": {
+    "abi-decoder": "^2.4.0",
+    "axios": "^0.21.1",
+    "big-number": "^2.0.0",
+    "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.0",
+    "ethereumjs-tx": "^2.1.2",
+    "ethers-private": "^2.0.0",
+    "fs": "0.0.1-security",
+    "nexe": "^4.0.0-beta.19",
+    "web3": "^1.3.4",
+    "winston": "^3.7.2",
+    "ws": "^8.5.0"
+  }
+}

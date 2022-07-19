@@ -1,0 +1,9 @@
+{"level":"error","message":"TypeError [ERR_INVALID_URL]: Invalid URL: 2022-07-19 18:27:05"}
+{"level":"error","message":"TypeError [ERR_INVALID_URL]: Invalid URL: 2022-07-19 18:30:18"}
+{"level":"error","message":"TypeError [ERR_INVALID_URL]: Invalid URL: 2022-07-19 18:32:44"}
+{"level":"info","message":"******************* Your Wallet Balance ************************"}
+{"level":"info","message":"wallet address: 0x9Ee7F3f78a694E6C0F791c6E05549960b5D85081"}
+{"level":"error","message":"Preparing Error : "}
+{"level":"error","message":"TypeError [ERR_INVALID_URL]: Invalid URL: 2022-07-19 18:50:18"}
+{"level":"info","message":"******************* Your Wallet Balance ************************"}
+{"level":"info","message":"wallet address: 0x9Ee7F3f78a694E6C0F791c6E05549960b5D85081"}
